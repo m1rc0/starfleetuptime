@@ -3,14 +3,12 @@ owner: m1rc0 # Your GitHub organization or username, where this repository lives
 repo: starfleetuptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Wardenburg Social Mastodon
+    url: https://masto.wardenburg.social
+  - name: Wardenburg Social Matrix Server
+    url: https://matrix.ocrim.de
+  - name: Wardenburg Social Nextcloud
+    url: https://nextcloud.ocrim.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
