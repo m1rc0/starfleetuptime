@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Wardenburg Social PeerTube",
+    "url": "https://tube.wardenburg.social",
+    "icon": "https://icons.duckduckgo.com/ip3/tube.wardenburg.social.ico",
+    "slug": "wardenburg-social-peer-tube",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2000,
+    "timeDay": 2000,
+    "timeWeek": 2000,
+    "timeMonth": 2000,
+    "timeYear": 2000,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Wardenburg Social Synapse (Matrix) Server",
     "url": "https://matrix.ocrim.de",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.ocrim.de.ico",
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1157,
-    "timeWeek": 1157,
-    "timeMonth": 1157,
-    "timeYear": 1157,
+    "time": 1241,
+    "timeDay": 1241,
+    "timeWeek": 1241,
+    "timeMonth": 1241,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3376,
-    "timeDay": 3376,
-    "timeWeek": 3376,
-    "timeMonth": 3376,
-    "timeYear": 3376,
+    "time": 2978,
+    "timeDay": 2978,
+    "timeWeek": 2978,
+    "timeMonth": 2978,
+    "timeYear": 2978,
     "dailyMinutesDown": {}
   }
 ]
