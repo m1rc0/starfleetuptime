@@ -5,7 +5,7 @@ repo: starfleetuptime # The name of this repository
 sites:
   - name: Wardenburg Social Mastodon
     url: https://masto.wardenburg.social
-  - name: Wardenburg Social Matrix Server
+  - name: Wardenburg Social Synapse (Matrix) Server
     url: https://matrix.ocrim.de
   - name: Wardenburg Social Nextcloud
     url: https://nextcloud.ocrim.de
