@@ -10,7 +10,7 @@ sites:
   - name: Wardenburg Social Synapse (Matrix) Server
     url: https://matrix.ocrim.de
   - name: Wardenburg Social Nextcloud
-    url: https://nextcloud.ocrim.de
+    url: https://cloud.wardenburg.social
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
