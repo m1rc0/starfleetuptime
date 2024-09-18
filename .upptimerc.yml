@@ -9,13 +9,14 @@ sites:
     url: https://tube.wardenburg.social
   - name: Wardenburg Social Synapse (Matrix) Server
     url: https://matrix.ocrim.de
+    icon: https://matrix.org/assets/favicon.ico
   - name: Wardenburg Social Nextcloud
     url: https://cloud.wardenburg.social
 
 status-website:
   cname: uptime.wardenburg.social
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Starfleet Upptime
+  name: Wardenburg Social Upptime
   introTitle: "**Wardenburg Social Uptime**"
   introMessage: Uptime Übersicht über die laufenden Dienste.
   navbar:
