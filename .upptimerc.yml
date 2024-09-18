@@ -13,7 +13,6 @@ sites:
     url: https://cloud.wardenburg.social
 
 status-website:
-  baseUrl: /starfleetuptime
   cname: uptime.wardenburg.social
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Starfleet Upptime
