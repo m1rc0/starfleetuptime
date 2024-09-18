@@ -16,7 +16,7 @@ status-website:
   baseUrl: /starfleetuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Starfleet Upptime
-  introTitle: "**Wardenburg Social Uptime**
+  introTitle: "**Wardenburg Social Uptime**"
   introMessage: Uptime Übersicht über die laufenden Dienste.
   navbar:
     - title: Status
