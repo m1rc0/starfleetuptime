@@ -15,10 +15,11 @@ sites:
 
 status-website:
   cname: uptime.wardenburg.social
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.wardenburg.de/typo3conf/ext/hellotypo3/Resources/Public/Images/logo/logo_header_top.png
   name: Wardenburg Social Upptime
   introTitle: "**Wardenburg Social Uptime**"
   introMessage: Uptime Übersicht über die laufenden Dienste.
+  theme: ocean
   navbar:
     - title: Status
       href: /
