@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: uptime.wardenburg.social
-  logoUrl: https://www.wardenburg.de/typo3conf/ext/hellotypo3/Resources/Public/Images/logo/logo_header_top.png
+  logoUrl: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DEU_Wardenburg_COA.svg/800px-DEU_Wardenburg_COA.svg.png
   name: Wardenburg Social Upptime
   introTitle: "**Wardenburg Social Uptime**"
   introMessage: Uptime Übersicht über die laufenden Dienste.
