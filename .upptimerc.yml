@@ -1,6 +1,6 @@
 # Change these first
-owner: m1rc0 # Your GitHub organization or username, where this repository lives
-repo: starfleetuptime # The name of this repository
+owner: m1rc0
+repo: starfleetuptime
 
 sites:
   - name: Wardenburg Social Mastodon
@@ -13,9 +13,6 @@ sites:
     url: https://cloud.wardenburg.social
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /starfleetuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Starfleet Upptime
@@ -26,6 +23,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
