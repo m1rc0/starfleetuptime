@@ -12,6 +12,9 @@ sites:
     icon: https://matrix.org/assets/favicon.ico
   - name: Wardenburg Social Nextcloud
     url: https://cloud.wardenburg.social
+  - name: Wardenburg Social PeerTube
+    url: https://tube.wardenburg.social
+    icon: https://joinpeertube.org/img/icons/favicon.png
 
 status-website:
   cname: uptime.wardenburg.social
