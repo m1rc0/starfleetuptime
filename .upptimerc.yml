@@ -17,6 +17,8 @@ sites:
     icon: https://joinpeertube.org/img/icons/favicon.png
   - name: Wardenburg Social Viewtube
     url: https://watch.wardenburg.social/
+  - name: Wardenburg Social Search
+    url: https://search.wardenburg.social/
 
 status-website:
   cname: uptime.wardenburg.social
