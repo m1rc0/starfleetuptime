@@ -58,17 +58,17 @@
     "url": "https://cloud.wardenburg.social",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wardenburg.social.ico",
     "slug": "wardenburg-social-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1713,
-    "timeDay": 1368,
-    "timeWeek": 1368,
-    "timeMonth": 1368,
-    "timeYear": 1368,
+    "time": 1640,
+    "timeDay": 1305,
+    "timeWeek": 1305,
+    "timeMonth": 1305,
+    "timeYear": 1305,
     "dailyMinutesDown": {}
   }
 ]
