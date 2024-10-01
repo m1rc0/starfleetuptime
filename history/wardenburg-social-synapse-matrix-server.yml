@@ -1,7 +1,7 @@
 url: https://matrix.ocrim.de
-status: up
-code: 200
-responseTime: 1060
-lastUpdated: 2024-09-30T23:20:55.409Z
+status: down
+code: 502
+responseTime: 728
+lastUpdated: 2024-10-01T20:12:29.712Z
 startTime: 2023-08-04T13:30:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
