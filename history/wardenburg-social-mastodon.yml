@@ -1,7 +1,7 @@
 url: https://masto.wardenburg.social
-status: up
-code: 200
-responseTime: 1028
-lastUpdated: 2024-10-24T23:19:52.201Z
+status: down
+code: 502
+responseTime: 368
+lastUpdated: 2024-10-25T06:30:52.630Z
 startTime: 2023-08-04T13:04:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
