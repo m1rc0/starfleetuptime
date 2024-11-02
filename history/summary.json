@@ -13,7 +13,7 @@
     "time": 857,
     "timeDay": 0,
     "timeWeek": 424,
-    "timeMonth": 758,
+    "timeMonth": 661,
     "timeYear": 824,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 2346,
     "timeDay": 1083,
     "timeWeek": 4107,
-    "timeMonth": 2475,
+    "timeMonth": 2525,
     "timeYear": 2326,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://search.wardenburg.social/",
     "icon": "https://icons.duckduckgo.com/ip3/search.wardenburg.social.ico",
     "slug": "wardenburg-social-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2851,
-    "timeDay": 12958,
-    "timeWeek": 7311,
-    "timeMonth": 3453,
-    "timeYear": 2851,
+    "time": 2817,
+    "timeDay": 11562,
+    "timeWeek": 7023,
+    "timeMonth": 3399,
+    "timeYear": 2817,
     "dailyMinutesDown": {}
   }
 ]
