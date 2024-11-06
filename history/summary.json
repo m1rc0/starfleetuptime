@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1143,
     "timeDay": 252,
-    "timeWeek": 2392,
+    "timeWeek": 2560,
     "timeMonth": 1078,
     "timeYear": 1136,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 3004,
     "timeDay": 6011,
-    "timeWeek": 6687,
+    "timeWeek": 6151,
     "timeMonth": 3866,
     "timeYear": 3039,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://cloud.wardenburg.social",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wardenburg.social.ico",
     "slug": "wardenburg-social-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1143,
     "timeDay": 252,
-    "timeWeek": 2392,
+    "timeWeek": 2560,
     "timeMonth": 1078,
     "timeYear": 1136,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 3532,
     "timeDay": 7998,
-    "timeWeek": 8856,
+    "timeWeek": 9169,
     "timeMonth": 4460,
     "timeYear": 3532,
     "dailyMinutesDown": {}
