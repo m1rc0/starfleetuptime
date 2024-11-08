@@ -112,17 +112,17 @@
     "url": "https://search.wardenburg.social/",
     "icon": "https://icons.duckduckgo.com/ip3/search.wardenburg.social.ico",
     "slug": "wardenburg-social-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3464,
-    "timeDay": 558,
-    "timeWeek": 9873,
-    "timeMonth": 4494,
-    "timeYear": 3464,
+    "time": 3428,
+    "timeDay": 467,
+    "timeWeek": 9507,
+    "timeMonth": 4427,
+    "timeYear": 3428,
     "dailyMinutesDown": {}
   }
 ]
