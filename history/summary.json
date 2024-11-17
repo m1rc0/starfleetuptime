@@ -4,7 +4,7 @@
     "url": "https://masto.wardenburg.social",
     "icon": "https://icons.duckduckgo.com/ip3/masto.wardenburg.social.ico",
     "slug": "wardenburg-social-mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2134,
     "timeDay": 11260,
-    "timeWeek": 5771,
+    "timeWeek": 6011,
     "timeMonth": 3189,
     "timeYear": 2134,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2134,
     "timeDay": 11260,
-    "timeWeek": 5771,
+    "timeWeek": 6011,
     "timeMonth": 3189,
     "timeYear": 2134,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 3379,
     "timeDay": 5797,
-    "timeWeek": 3461,
+    "timeWeek": 3639,
     "timeMonth": 4572,
     "timeYear": 3379,
     "dailyMinutesDown": {}
