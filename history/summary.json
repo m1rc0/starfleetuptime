@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2097,
     "timeDay": 399,
-    "timeWeek": 5872,
+    "timeWeek": 6122,
     "timeMonth": 3161,
     "timeYear": 2097,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 4418,
     "timeDay": 6544,
-    "timeWeek": 8640,
+    "timeWeek": 8902,
     "timeMonth": 5861,
     "timeYear": 4444,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2097,
     "timeDay": 399,
-    "timeWeek": 5872,
+    "timeWeek": 6122,
     "timeMonth": 3161,
     "timeYear": 2097,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "url": "https://watch.wardenburg.social/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.wardenburg.social.ico",
     "slug": "wardenburg-social-viewtube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
