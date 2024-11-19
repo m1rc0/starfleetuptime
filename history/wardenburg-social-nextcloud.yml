@@ -1,7 +1,7 @@
 url: https://cloud.wardenburg.social
-status: up
-code: 200
-responseTime: 1253
-lastUpdated: 2024-11-19T03:28:32.106Z
+status: down
+code: 502
+responseTime: 578
+lastUpdated: 2024-11-19T09:47:09.201Z
 startTime: 2023-08-04T13:04:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
