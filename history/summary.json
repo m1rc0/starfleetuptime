@@ -40,7 +40,7 @@
     "url": "https://matrix.ocrim.de",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "wardenburg-social-synapse-matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 3636,
     "timeDay": 18483,
     "timeWeek": 4704,
-    "timeMonth": 5269,
+    "timeMonth": 5320,
     "timeYear": 3666,
     "dailyMinutesDown": {}
   },
