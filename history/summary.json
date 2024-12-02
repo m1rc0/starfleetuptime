@@ -40,7 +40,7 @@
     "url": "https://matrix.ocrim.de",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "wardenburg-social-synapse-matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 4177,
     "timeDay": 11945,
-    "timeWeek": 8223,
+    "timeWeek": 8535,
     "timeMonth": 5576,
     "timeYear": 4212,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://cloud.wardenburg.social",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wardenburg.social.ico",
     "slug": "wardenburg-social-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 3006,
     "timeDay": 615,
     "timeWeek": 1963,
-    "timeMonth": 3461,
+    "timeMonth": 3134,
     "timeYear": 3006,
     "dailyMinutesDown": {}
   }
