@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2060,
     "timeDay": 1140,
-    "timeWeek": 560,
+    "timeWeek": 570,
     "timeMonth": 3543,
     "timeYear": 2060,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://matrix.ocrim.de",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "wardenburg-social-synapse-matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 4182,
     "timeDay": 11186,
     "timeWeek": 8398,
-    "timeMonth": 5570,
+    "timeMonth": 5598,
     "timeYear": 4217,
     "dailyMinutesDown": {}
   },
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4770,
-    "timeDay": 19004,
+    "timeDay": 20670,
     "timeWeek": 8177,
     "timeMonth": 6622,
     "timeYear": 4795,
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2060,
     "timeDay": 1140,
-    "timeWeek": 560,
+    "timeWeek": 570,
     "timeMonth": 3543,
     "timeYear": 2060,
     "dailyMinutesDown": {}
@@ -121,7 +121,7 @@
     "time": 3006,
     "timeDay": 615,
     "timeWeek": 1963,
-    "timeMonth": 3134,
+    "timeMonth": 3176,
     "timeYear": 3006,
     "dailyMinutesDown": {}
   }
